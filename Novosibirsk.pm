@@ -9,7 +9,7 @@ use Moo;
 use namespace::clean;
 
 # Version.
-our $VERSION = 0.05;
+our $VERSION = 0.06;
 
 # Get XML.
 has xml => (
@@ -306,6 +306,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.05
+0.06
 
 =cut

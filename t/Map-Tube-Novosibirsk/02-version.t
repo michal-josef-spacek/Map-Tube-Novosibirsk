@@ -6,4 +6,4 @@ use Test::More 'tests' => 2;
 use Test::NoWarnings;
 
 # Test.
-is($Map::Tube::Novosibirsk::VERSION, 0.05, 'Version.');
+is($Map::Tube::Novosibirsk::VERSION, 0.06, 'Version.');
