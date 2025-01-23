@@ -4,7 +4,7 @@ examples/print_novosibirsk_image.pl
 examples/print_novosibirsk_line_stations.pl
 examples/print_novosibirsk_lines.pl
 examples/print_novosibirsk_route.pl
-images/ex3.png
+images/Novosibirsk.png
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm

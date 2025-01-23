@@ -186,12 +186,12 @@ For more information about Novosibirsk Map, click L<here|https://en.wikipedia.or
  system "ls -l Novosibirsk.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 36609 Jan  1 00:34 Novosibirsk.png
+ # -rw-r--r-- 1 skim skim 34058 23. led 12.45 Novosibirsk.png
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Novosibirsk/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Novosibirsk/master/images/ex3.png" alt="Новосибирский метрополитен" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Novosibirsk/master/images/Novosibirsk.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Novosibirsk/master/images/Novosibirsk.png" alt="Новосибирский метрополитен" width="300px" height="300px" />
 </a>
 
 =end html
