@@ -116,6 +116,8 @@ For more information about Novosibirsk Map, click L<here|https://en.wikipedia.or
 
 =head1 EXAMPLE1
 
+=for comment filename=print_novosibirsk_route.pl
+
  use strict;
  use warnings;
 
@@ -136,6 +138,8 @@ For more information about Novosibirsk Map, click L<here|https://en.wikipedia.or
 
 =head1 EXAMPLE2
 
+=for comment filename=print_novosibirsk_def_xml_file.pl
+
  use strict;
  use utf8;
  use warnings;
@@ -155,6 +159,8 @@ For more information about Novosibirsk Map, click L<here|https://en.wikipedia.or
  # XML file: .*/novosibirsk-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_novosibirsk_image.pl
 
  use strict;
  use warnings;
@@ -192,6 +198,8 @@ For more information about Novosibirsk Map, click L<here|https://en.wikipedia.or
 
 =head1 EXAMPLE4
 
+=for comment filename=print_novosibirsk_lines.pl
+
  use strict;
  use warnings;
 
@@ -212,6 +220,8 @@ For more information about Novosibirsk Map, click L<here|https://en.wikipedia.or
  # Ленинская линия
 
 =head1 EXAMPLE5
+
+=for comment filename=print_novosibirsk_line_stations.pl
 
  use strict;
  use warnings;

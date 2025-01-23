@@ -2,6 +2,7 @@
  - Fix connection between 'Красный проспект' and 'Сибирская'.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
+ - Rename examples to better names.
  - Update bugtracker to github.
 
 0.04 2025-01-23T11:27:31+01:00
